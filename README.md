@@ -67,20 +67,28 @@ https://github.com/touchlab/xcode-kotlin
 
 ### Q. Samples (Varying complexity)? ⭐
 ###### @samples<br/>
-- https://github.com/touchlab/KaMPKit (docs: https://github.com/touchlab/KaMPKit/tree/main/docs)<br/>
-- https://kotlinlang.org/docs/multiplatform-mobile-samples.html<br/>
+- KaMPKit. https://github.com/touchlab/KaMPKit (docs: https://github.com/touchlab/KaMPKit/tree/main/docs)<br/>
+- BikeShare. Jetpack Compose and SwiftUI based Kotlin Multiplatform sample project https://github.com/joreilly/BikeShare
+- Fantasy Premier League. Project with Jetpack Compose, Compose for Desktop and SwiftUI clients (and using Ktor for remote API requests and Realm for persistence). https://github.com/joreilly/FantasyPremierLeague<br/>
+- MortyComposeKMM. https://github.com/joreilly/MortyComposeKMM<br/>
+- StarWars. https://github.com/joreilly/StarWars<br/>
+- Confetti. https://github.com/joreilly/Confetti<br/>
+- GalwayBus. https://github.com/joreilly/GalwayBus<br/>
+- Chip-8. https://github.com/joreilly/chip-8
+- The official list https://kotlinlang.org/docs/multiplatform-mobile-samples.html<br/>
 - The Kotlin Blog https://blog.jetbrains.com/kotlin/2021/09/kmm-samples/<br/>
-- KMM RSS Reader. Compose-Desktop and React-Web https://github.com/Kotlin/kmm-production-sample/releases/tag/desktop_web<br/>
-- Generate a UUID https://kotlinlang.org/docs/multiplatform-connect-to-apis.html#generate-a-uuid<br/>
-- Implement a logging framework https://kotlinlang.org/docs/multiplatform-connect-to-apis.html#implement-a-logging-framework<br/>
-- Send and receive messages from a WebSocket https://kotlinlang.org/docs/multiplatform-connect-to-apis.html#send-and-receive-messages-from-a-websocket<br/>
-- Confetti https://github.com/joreilly/Confetti<br/>
-- Widget for ios and android https://github.com/joreilly/PeopleInSpace<br/>
+- Official example. KMM RSS Reader. Compose-Desktop and React-Web https://github.com/Kotlin/kmm-production-sample/releases/tag/desktop_web<br/>
+- From official documentation:
+  - Generate a UUID https://kotlinlang.org/docs/multiplatform-connect-to-apis.html#generate-a-uuid<br/>
+  - Implement a logging framework https://kotlinlang.org/docs/multiplatform-connect-to-apis.html#implement-a-logging-framework<br/>
+  - Send and receive messages from a WebSocket https://kotlinlang.org/docs/multiplatform-connect-to-apis.html#send-and-receive-messages-from-a-websocket<br/>
+- Widget for ios and android (there's a lot more) https://github.com/joreilly/PeopleInSpace<br/>
 - Realm
   - https://github.com/realm/realm-kotlin-samples/tree/main/Bookshelf<br/>
   - https://github.com/realm/realm-kotlin-samples/tree/main/MultiplatformDemo<br/>
   - https://github.com/joreilly/FantasyPremierLeague<br/>
-    <br/><br/>
+<br/><br/>
+  
 
 ### T. KMM project structure ⭐
 ###### @shared module, @commonMain, @androidMain, @iosMain, @actual, @expect, @commonTest, @androidTest, @iosTest, @xcode, @iOS framework, @embedAndSignAppleFrameworkForXcode, @Run Script, @Build Settings<br/>
