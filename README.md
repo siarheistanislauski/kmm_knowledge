@@ -264,7 +264,7 @@ https://github.com/jetbrains/compose-jb
 https://betterprogramming.pub/jetpack-compose-for-ios-getting-started-step-by-step-e7be6f52edd4<br/>
 https://touchlab.co/compose-ui-for-ios/<br/>
 examples:
-- https://github.com/JetBrains/compose-jb/tree/master/experimental/examples/falling-balls-mpp<br/>
+- Official https://github.com/JetBrains/compose-multiplatform-ios-android-template
 - https://github.com/touchlab/DroidconKotlin<br/>
 - https://github.com/joreilly/PeopleInSpace<br/>
 - https://github.com/cl3m/multiplatform-compose
