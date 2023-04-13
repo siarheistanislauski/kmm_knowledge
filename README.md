@@ -82,6 +82,7 @@ https://github.com/touchlab/xcode-kotlin
   - Generate a UUID https://kotlinlang.org/docs/multiplatform-connect-to-apis.html#generate-a-uuid<br/>
   - Implement a logging framework https://kotlinlang.org/docs/multiplatform-connect-to-apis.html#implement-a-logging-framework<br/>
   - Send and receive messages from a WebSocket https://kotlinlang.org/docs/multiplatform-connect-to-apis.html#send-and-receive-messages-from-a-websocket<br/>
+- More official samples https://github.com/JetBrains/compose-multiplatform/blob/master/examples/README.md
 - Widget for ios and android (there's a lot more) https://github.com/joreilly/PeopleInSpace<br/>
 - Realm
   - https://github.com/realm/realm-kotlin-samples/tree/main/Bookshelf<br/>
