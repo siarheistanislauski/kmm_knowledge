@@ -197,7 +197,8 @@ https://youtu.be/CIZU_NNAZsA
 
 ### T. Native. Interoperability with Swift/Objective-C ⭐⭐
 ###### @bidirectional interoperability, @@HiddenFromObjC, @@ShouldRefineInSwift, @@ObjCName, @@Throws, @suspend,  @async, @singleton, @collections, @function types, @casting, @subclassing<br/>
-https://kotlinlang.org/docs/native-objc-interop.html
+https://kotlinlang.org/docs/native-objc-interop.html<br/>
+https://www.youtube.com/watch?v=j-zEAMcMcjA&ab_channel=KotlinbyJetBrains<br/>
 <br/><br/>
 
 ### Q. Native. Suspending functions and IOS ⭐⭐
