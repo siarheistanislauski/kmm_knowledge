@@ -16,6 +16,7 @@ https://antran.app/2022/kotlin_multiplatform_mobile_resources/
 
 ### T. What is Kotlin Multiplatform (KM)? ⭐
 https://kotlinlang.org/docs/multiplatform.html
+Presentation https://docs.google.com/presentation/d/1rPmzz1J7iEo0pT-dECrw20mbBWEKTyxE48HpBO60l3I/edit#slide=id.g1e3de899d09_1_69
 <br/><br/>
 
 ### T. What is Kotlin Native? ⭐
