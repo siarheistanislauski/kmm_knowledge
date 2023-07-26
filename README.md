@@ -198,7 +198,12 @@ https://youtu.be/CIZU_NNAZsA
 ### T. Native. Interoperability with Swift/Objective-C ⭐⭐
 ###### @bidirectional interoperability, @@HiddenFromObjC, @@ShouldRefineInSwift, @@ObjCName, @@Throws, @suspend,  @async, @singleton, @collections, @function types, @casting, @subclassing<br/>
 https://kotlinlang.org/docs/native-objc-interop.html<br/>
-https://www.youtube.com/watch?v=j-zEAMcMcjA&ab_channel=KotlinbyJetBrains<br/>
+https://www.youtube.com/watch?v=j-zEAMcMcjA&ab_channel=KotlinbyJetBrains<br/><br/>
+Writing Swift-Friendly Kotlin Multiplatform APIs<br/>
+ - https://betterprogramming.pub/writing-swift-friendly-kotlin-multiplatform-apis-part-i-1173ec405a20<br/>
+ - https://betterprogramming.pub/writing-swift-friendly-kotlin-multiplatform-apis-part-ii-bbee12090415<br/>
+ - https://betterprogramming.pub/writing-swift-friendly-kotlin-multiplatform-apis-part-iii-e8ab8327260e<br/>
+ - https://medium.com/@aoriani/writing-swift-friendly-kotlin-multiplatform-apis-part-iv-d962c31edfee<br/>
 <br/><br/>
 
 ### Q. Native. Suspending functions and IOS ⭐⭐
@@ -258,7 +263,8 @@ https://kotlinlang.org/docs/native-faq.html
 <sub>Compose Multiplatform simplifies and accelerates UI development for Desktop and Web applications, and allows extensive UI code sharing between Android, Desktop and Web.</sub><br/>
 https://www.jetbrains.com/lp/compose-mpp/<br/>
 https://blog.jetbrains.com/kotlin/2021/12/compose-multiplatform-1-0-is-going-live<br/>
-https://github.com/jetbrains/compose-jb
+https://github.com/jetbrains/compose-jb<br/>
+Compare Declarative Frameworks https://www.jetpackcompose.app/compare-declarative-frameworks/JetpackCompose-vs-SwiftUI-vs-Flutter
 <br/><br/>
 
 ### T. Compose UI for iOS ⭐⭐⭐⭐
