@@ -15,8 +15,8 @@ https://antran.app/2022/kotlin_multiplatform_mobile_resources/
 <br/><br/>
 
 ### T. What is Kotlin Multiplatform (KM)? ⭐
-https://kotlinlang.org/docs/multiplatform.html
-Presentation https://docs.google.com/presentation/d/1rPmzz1J7iEo0pT-dECrw20mbBWEKTyxE48HpBO60l3I/edit#slide=id.g1e3de899d09_1_69
+https://kotlinlang.org/docs/multiplatform.html<br/>
+PRESENTATION https://docs.google.com/presentation/d/1rPmzz1J7iEo0pT-dECrw20mbBWEKTyxE48HpBO60l3I/edit#slide=id.g1e3de899d09_1_69
 <br/><br/>
 
 ### T. What is Kotlin Native? ⭐
@@ -205,6 +205,9 @@ Writing Swift-Friendly Kotlin Multiplatform APIs<br/>
  - https://betterprogramming.pub/writing-swift-friendly-kotlin-multiplatform-apis-part-ii-bbee12090415<br/>
  - https://betterprogramming.pub/writing-swift-friendly-kotlin-multiplatform-apis-part-iii-e8ab8327260e<br/>
  - https://medium.com/@aoriani/writing-swift-friendly-kotlin-multiplatform-apis-part-iv-d962c31edfee<br/>
+ - https://proandroiddev.com/writing-swift-friendly-kotlin-multiplatform-apis-part-vii-coroutines-5c76da7a4e72<br/>
+ 
+KMP-NATIVECOROUTINES https://www.droidcon.com/2023/07/31/calling-kotlin-multiplatform-coroutines-from-swift-with-the-help-of-kmp-nativecoroutines/
 <br/><br/>
 
 ### Q. Native. Suspending functions and IOS ⭐⭐
