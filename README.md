@@ -8,11 +8,14 @@
   ⭐⭐⭐ - Senior <br/>
   ⭐⭐⭐⭐ - Pro <br/>
 ___
-### T. CATALOG of KMM utilities and libraries 🤩
+### T. CATALOG of KMP utilities and libraries 🤩
 https://github.com/terrakok/kmm-awesome<br/>
 https://github.com/AAkira/Kotlin-Multiplatform-Libraries<br/>
 https://antran.app/2022/kotlin_multiplatform_mobile_resources/
 <br/><br/>
+
+### T. Update on the Name of Kotlin Multiplatform
+https://blog.jetbrains.com/kotlin/2023/07/update-on-the-name-of-kotlin-multiplatform/
 
 ### T. What is Kotlin Multiplatform (KM)? ⭐
 https://kotlinlang.org/docs/multiplatform.html<br/>
@@ -23,12 +26,12 @@ PRESENTATION https://docs.google.com/presentation/d/1rPmzz1J7iEo0pT-dECrw20mbBWE
 https://kotlinlang.org/docs/native-overview.html
 <br/><br/>
 
-### T. What is Kotlin Multiplatform Mobile (KMM)? ⭐
+### T. What is Kotlin Multiplatform Mobile (KMP)? ⭐
 https://kotlinlang.org/lp/mobile/
 <br/><br/>
 
 ### T. General FAQ ⭐
-###### @KMM, @Kotlin/Native<br/>
+###### @KMP, @Kotlin/Native<br/>
 https://kotlinlang.org/docs/multiplatform-mobile-faq.html
 <br/><br/>
 
@@ -71,14 +74,14 @@ https://github.com/touchlab/xcode-kotlin
 - KaMPKit. https://github.com/touchlab/KaMPKit (docs: https://github.com/touchlab/KaMPKit/tree/main/docs)<br/>
 - BikeShare. Jetpack Compose and SwiftUI based Kotlin Multiplatform sample project https://github.com/joreilly/BikeShare
 - Fantasy Premier League. Project with Jetpack Compose, Compose for Desktop and SwiftUI clients (and using Ktor for remote API requests and Realm for persistence). https://github.com/joreilly/FantasyPremierLeague<br/>
-- MortyComposeKMM. https://github.com/joreilly/MortyComposeKMM<br/>
+- MortyComposeKMP. https://github.com/joreilly/MortyComposeKMM<br/>
 - StarWars. https://github.com/joreilly/StarWars<br/>
 - Confetti. https://github.com/joreilly/Confetti<br/>
 - GalwayBus. https://github.com/joreilly/GalwayBus<br/>
 - Chip-8. https://github.com/joreilly/chip-8
 - The official list https://kotlinlang.org/docs/multiplatform-mobile-samples.html<br/>
 - The Kotlin Blog https://blog.jetbrains.com/kotlin/2021/09/kmm-samples/<br/>
-- Official example. KMM RSS Reader. Compose-Desktop and React-Web https://github.com/Kotlin/kmm-production-sample/releases/tag/desktop_web<br/>
+- Official example. KMP RSS Reader. Compose-Desktop and React-Web https://github.com/Kotlin/kmm-production-sample/releases/tag/desktop_web<br/>
 - From official documentation:
   - Generate a UUID https://kotlinlang.org/docs/multiplatform-connect-to-apis.html#generate-a-uuid<br/>
   - Implement a logging framework https://kotlinlang.org/docs/multiplatform-connect-to-apis.html#implement-a-logging-framework<br/>
@@ -92,17 +95,17 @@ https://github.com/touchlab/xcode-kotlin
 <br/><br/>
   
 
-### T. KMM project structure ⭐
+### T. KMP project structure ⭐
 ###### @shared module, @commonMain, @androidMain, @iosMain, @actual, @expect, @commonTest, @androidTest, @iosTest, @xcode, @iOS framework, @embedAndSignAppleFrameworkForXcode, @Run Script, @Build Settings<br/>
 https://kotlinlang.org/docs/multiplatform-mobile-understand-project-structure.html
 <br/><br/>
 
-### T. Convert Android project to a KMM project (with IOS) ⭐
+### T. Convert Android project to a KMP project (with IOS) ⭐
 ###### @embedAndSignAppleFrameworkForXcode, @Kotlin Multiplatform Shared Module, @xcode, @Run Script, @Build Phases, @import shared<br/>
 https://kotlinlang.org/docs/multiplatform-mobile-integrate-in-existing-app.html
 <br/><br/>
 
-### T. First dive in KMM in video format (can be skiped if you read the topics above) ⭐
+### T. First dive in KMP in video format (can be skiped if you read the topics above) ⭐
 ###### @video<br/>
 https://www.youtube.com/playlist?list=PLlFc5cFwUnmy_oVc9YQzjasSNoAk4hk_C
 <br/><br/>
@@ -192,7 +195,7 @@ old approuche https://kotlinlang.org/docs/multiplatform-build-native-binaries.ht
 https://kotlinlang.org/docs/multiplatform-dsl-reference.html
 <br/><br/>
 
-### T. JetBrains webinar about KMM (video) ⭐⭐
+### T. JetBrains webinar about KMP (video) ⭐⭐
 <sub>One of the main benefits of Kotlin Multiplatform Mobile is the ability to add code incrementally. During this webinar, we’ll present the integration options we’ve found work best after working with teams of different sizes and different stages of Kotlin Multiplatform readiness. We’ll also discuss how to introduce Multiplatform Mobile to your team, how to choose the type of modules to create, and the technical considerations for making the best iOS-facing API.</sub><br/>
 https://youtu.be/CIZU_NNAZsA
 
@@ -295,6 +298,10 @@ examples:
 https://touchlab.co/introducing-kmmbridge-teams/
 https://touchlab.co/quick-start-with-kmmbridge-1-hour-tutorial/
 <br/><br/>
+
+### T. Continuous Integration for a Kotlin Multiplatform repository
+- GitHub Actions: https://akjaw.com/kotlin-multiplatform-github-actions-ci-verification-labels/
+ 
 
 ### T. New Approach to Incremental Compilation in Kotlin ⭐⭐⭐⭐
 ###### @useClasspathSnapshot, @Kotlin 1.7.0<br/>
